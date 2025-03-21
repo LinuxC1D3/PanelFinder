@@ -24,7 +24,7 @@ Ein Webseiten PanelFinder in python3 geschrieben
         (":8888", "VHCS"),
         (":19999", "Netdata"),
         (":10000", "Webmin")
-    ]
+   ## ]
 
 Ihr könnt das skript erweitern und oder verbessern wie ihr wollt.
 
